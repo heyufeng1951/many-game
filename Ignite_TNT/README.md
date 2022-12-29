@@ -9,7 +9,7 @@ _💣 网页小游戏 👆🏻_
 
 小游戏：点燃TNT（在EatKano版本基础上进行修改）
 
-链接：https://heyufeng1951.github.io/many-game/Ignite_TNT/index.html
+[链接](https://heyufeng1951.github.io/many-game/Ignite_TNT/index.html)
 
 ## 原项目
 
