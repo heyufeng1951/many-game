@@ -9,4 +9,4 @@ _🦖 网页小游戏 🌵_
 
 小游戏：谷歌小恐龙（单文件版本）
 
-链接：https://heyufeng1951.github.io/many-game/dino-game/index.html
+[链接](https://heyufeng1951.github.io/many-game/dino-game/index.html)
