@@ -9,6 +9,6 @@ _ 🟦🟪🟫⬜网页小游戏 🟥🟧🟨🟩_
 
 小游戏：色弱测试
 
-[链接](https://heyufeng1951.github.io/many-game/color_look/index.html)
+[链接](https://heyufeng1951.github.io/many-game/look_color/index.html)
 
 ## [原项目](https://xingye.me/game/colortest/index.html)
