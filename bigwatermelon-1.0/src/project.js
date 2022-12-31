@@ -987,7 +987,7 @@ window.__require = function e(t, n, o) {
                         scale: .9
                     }).union().repeatForever().start()
                 }, t.prototype.update = function(e) {}, t.prototype.adsButtonFunc2 = function() {
-                    window.location.href = "https://activity.doumobfour.club/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=189da8b9d29788c1cf058587fa2f7b9c&1=1"
+                    window.location.href = ""
                 }, t.prototype.bannerButtonFunc = function() {
                     window.location.href = "https://interaction.clotfun.online/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=1baa3dd0d2eeb6e18a5f7a6d6e410e1a&from=H5&1=1"
                 }, t.prototype.ShowFailedUi = function(e, t) {
@@ -1007,7 +1007,7 @@ window.__require = function e(t, n, o) {
                     this.canClick && 0 == cc.find("Canvas/uiEffectPanel").childrenCount && a.default.Instance.RestartGame()
                 }, t.prototype.OnClickMoreGame = function() {
                     this.canClick && (this.moreGameBtn.off(cc.Node.EventType.TOUCH_START, this.OnClickMoreGame, this), this.canClick = !1, this.moreGameBtn.runAction(cc.sequence(cc.scaleTo(.1, 1.1), cc.scaleTo(.1, 1))), this.scheduleOnce(function() {
-                        window.location.href = "http://m.wesane.com/"
+                        window.location.href = ""
                     }, .15))
                 }, t.prototype.GetContentByScore = function(e) {
                     var t = Math.ceil(e / 1500 * 94);
@@ -2032,7 +2032,7 @@ window.__require = function e(t, n, o) {
                         i = c.substring(c.lastIndexOf("/game/") + 1, c.length).split("/");
                     i.length >= 2 && (a = i[1]), this.gameHttpId = a, cc.log("gameId", a);
                     e.substring(e.lastIndexOf("//") + 4, e.lastIndexOf("com") + 3);
-                    this.moreGameUrl = "http://m.wesane.com/"
+                    this.moreGameUrl = ""
                 },
                 gameOverShowText: function(e, t) {
                     this.ajaxLoad("http://www.wesane.com/admin.php/Gamescore/saveGamescore", "gameScore=" + e + "&gameId=" + this.gameHttpId + "&gameType=" + t, this.scoreResult)
