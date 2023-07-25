@@ -1,1 +1,0 @@
-hookErrorReporting("webui-surf-game");
