@@ -15,7 +15,7 @@
 [链接](https://heyufeng1951.github.io/many-game/look-color)
 
 
-########## 图片（不要点）
+###### 图片（不要点）
 [低头](https://heyufeng1951.github.io/many-game/low_head.png)
 [大笑](https://heyufeng1951.github.io/many-game/big_laugh.png)
 [封面](https://heyufeng1951.github.io/many-game/video.png)
